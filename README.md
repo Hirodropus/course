@@ -4,6 +4,6 @@
 
 В файл venv/ya_token.txt необходимо вставить [токен с Полигона Яндекс.Диска](https://yandex.ru/dev/disk/poligon/)
 
-photos_dog.json -- json-файл с информацией по загруженным файлам
+venv/photos_dog.json -- json-файл с информацией по загруженным файлам
 
 Все зависимости указаны в файле requiremеnts.txt
