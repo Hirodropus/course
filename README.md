@@ -2,8 +2,8 @@
 
 Итоговая работа по модулю "ООП и работа с API"
 
-В файл venv/ya_token.txt необходимо вставить [токен с Полигона Яндекс.Диска](https://yandex.ru/dev/disk/poligon/)
+В файл ya_token.txt необходимо вставить [токен с Полигона Яндекс.Диска](https://yandex.ru/dev/disk/poligon/)
 
-venv/photos_dog.json -- json-файл с информацией по загруженным файлам
+photos_dog.json -- json-файл с информацией по загруженным файлам
 
 Все зависимости указаны в файле requiremеnts.txt
